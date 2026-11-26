@@ -84,8 +84,7 @@ To practice React-based application development, explore e-commerce interface co
 
 ---
 
-## Author
-
+## Author 
 **Mohammad Aminul Islam**
 
 ---
