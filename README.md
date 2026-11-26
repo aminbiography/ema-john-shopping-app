@@ -82,6 +82,8 @@ npm run build
 
 To practice React-based application development, explore e-commerce interface concepts, and strengthen front-end development skills through a practical shopping application.
 
+---
+
 ## Author
 
 **Mohammad Aminul Islam**
